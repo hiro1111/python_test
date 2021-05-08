@@ -31,7 +31,7 @@ def same(x,y):
     return find(x)==find(y)
 
 # フェルマーの小定理
-a**(p-1)==1 (mod p)
+a**(p-1)==1 #(mod p)
 
 # 組み合わせ(1個だけ求める版)(NでかくてもK次第でいける)
 
